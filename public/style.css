@@ -1,0 +1,33 @@
+body{
+    background-image: url('../static/bg-2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    margin: auto;
+    margin-top: 4rem;
+    text-align: center;
+    font-weight: bolder;
+}
+.jumbotron{
+    background-color:wheat;
+    padding: 2%;
+    
+}
+.navbar{
+    font-size: 15pt;
+}
+.collapse{
+    float:right ;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 20pt;
+    
+  }
+  
