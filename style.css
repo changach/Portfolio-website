@@ -1,5 +1,5 @@
 body{
-    background-image: url('./static/bg-2.jpg');
+    background-image: url('./static/bg-1.jpg');
     height: 100vh;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -17,9 +17,7 @@ body{
 }
 .navbar{
     font-size: 15pt;
-}
-.collapse{
-    float:right ;
+    font-family: cursive;
 }
 .hero-text {
     text-align: center;
@@ -30,5 +28,11 @@ body{
     color:white;
     font-size: 20pt;
     
-  }
+}
+#text_{
+color: white;
+font-family:cursive;
+font-weight: normal;
+}
+
   
